@@ -1,4 +1,4 @@
 # proyectouno
 Proyecto Uno - Curso iOS
 
-Priimero proyecto usand SWITF 5.
+Priimero proyecto usando SWITF 5.
